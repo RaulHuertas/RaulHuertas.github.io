@@ -1,0 +1,21 @@
+{
+    "templates": [
+        {
+            "name": "A",
+            "description": "Default template for new projects.",
+            "path": "templates/a.json",
+            "keyset": "latam",
+            "kbmodel": "nutymini"
+                  
+        },
+        {
+            "name": "B",
+            "description": "Default template for new projects.",
+            "path": "templates/a.json",
+            "keyset": "us",
+            "kbmodel": "nutymini"
+                  
+        }
+    ]
+
+}
