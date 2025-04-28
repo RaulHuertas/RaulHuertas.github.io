@@ -1,19 +1,35 @@
 {
     "templates": [
         {
-            "name": "A",
-            "description": "Default template for new projects.",
-            "path": "templates/a.json",
+            "name": "VIM",
+            "description": "Flechas y funciones acomodadas para usarse con vim",
+            "path": "templates/nutymini/vimmer.ncfg",
             "keyset": "latam",
             "kbmodel": "nutymini"
                   
         },
         {
-            "name": "B",
-            "description": "Default template for new projects.",
-            "path": "templates/a.json",
-            "keyset": "us",
+            "name": "HomeRowMods",
+            "description": "Teclas de la fila central tienen doble función",
+            "path": "templates/nutymini/homeRowMods.ncfg",
+            "keyset": "latam",
             "kbmodel": "nutymini"
+                  
+        },
+        {
+            "name": "Simple",
+            "description": "Fácil de aprender",
+            "path": "templates/nutymini/simple.ncfg",
+            "keyset": "latam",
+            "kbmodel": "nutymini"
+                  
+        },
+        {
+            "name": "Simple",
+            "description": "La mayoría de teclas están en la primera capa",
+            "path": "templates/dactyl60/dactyl60standard.ncfg",
+            "keyset": "es",
+            "kbmodel": "nutydactyl60"
                   
         }
     ]
